@@ -1,2 +1,3 @@
 # Simon-Say-Game
-this is the 1st project made by using html css and js
+this is my 1st project made by using html, css and js
+
